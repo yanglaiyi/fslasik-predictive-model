@@ -66,6 +66,7 @@ fslasik-predictive-model/
 | Cutoff Determination | Youden's J statistic on ROC curve + IPW validation |
 | Confounding Assessment | Change-in-estimate (>15% rule) with covariates: Age, IOP, Pachy_Thin_Locat |
 | Correlation Analysis | Partial correlation adjusted for Age, IOP |
+| Nonlinear Interaction | Partial Dependence Display (PDP) for top 5 feature pairs |
 | Inter-eye Agreement | Intraclass correlation coefficient (ICC) |
 
 ## Dependencies
