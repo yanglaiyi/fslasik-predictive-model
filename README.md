@@ -148,8 +148,8 @@ Translating Black-Box Algorithms to Clinical Maps: An IPW-Validated Machine Lear
 
 ## Contact
 
-Corresponding author: wukunchao@126.com
-Co-authors: 34459356@qq.com, zgl19970@126.com
+Corresponding authors: wukunchao@126.com, 34459356@qq.com
+Co-author: zgl19970@126.com
 
 ## License
 
